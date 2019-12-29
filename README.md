@@ -1,3 +1,3 @@
 # meteor-todos
 
-First project in Meteor.js. A todo app. 
+First project in [Meteor.js](https://www.meteor.com/). A todo app. 
